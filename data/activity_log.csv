@@ -1,0 +1,4 @@
+id,book_title,borrower_name,action_type,action_date,book_id,friend_id
+3,"The Story of a Shipwrecked Sailor — Gabriel García Márquez","Yara Zimmermann",LOAN_ISSUED,"2026-04-01 20:24:55",114,55
+2,"Neverwhere — Neil Gaiman","Ben Zimmermann",LOAN_ISSUED,"2026-04-01 20:24:45",26,14
+1,"Perfume: The Story of a Murderer — Patrick Süskind","Xena Fuchs",LOAN_ISSUED,"2026-04-01 20:24:17",16,54

@@ -1,0 +1,124 @@
+id,title,author,genre,isbn,status,rating
+123,"Unstoppable Us","Yuval Noah Harari",Non-Fiction,978-0593482933,Available,9.0
+122,"Harry Potter and the Goblet of Fire","J.K. Rowling",Fantasy,978-0439139595,Available,10.0
+121,Suttree,"Cormac McCarthy",Fiction,978-0679736325,Available,8.0
+120,"A Writer's Diary","Fyodor Dostoevsky",Non-Fiction,978-0810125216,Available,8.0
+119,"Underground: The Tokyo Gas Attack","Haruki Murakami",Non-Fiction,978-0375725807,Available,8.0
+118,"Manual of the Warrior of Light","Paulo Coelho",Non-Fiction,978-0060527983,Available,7.0
+117,"Death in the Afternoon","Ernest Hemingway",Non-Fiction,978-0684801452,Available,6.0
+116,"The Road to Wigan Pier","George Orwell",Non-Fiction,978-0156777506,Available,7.0
+115,"Homage to Catalonia","George Orwell",Non-Fiction,978-0156421171,Available,8.0
+114,"The Story of a Shipwrecked Sailor","Gabriel García Márquez",Non-Fiction,978-0679722052,Borrowed,7.0
+113,"What Is Art?","Leo Tolstoy",Non-Fiction,978-0140446425,Available,7.0
+112,"A Moveable Feast","Ernest Hemingway",Non-Fiction,978-0684824994,Available,9.0
+111,"21 Lessons for the 21st Century","Yuval Noah Harari",Non-Fiction,978-0525512172,Available,8.0
+110,"Homo Deus","Yuval Noah Harari",Non-Fiction,978-0062464316,Available,9.0
+109,Sapiens,"Yuval Noah Harari",Non-Fiction,978-0062316097,Available,10.0
+108,Brida,"Paulo Coelho",Fiction,978-0061578953,Available,5.0
+107,"Eleven Minutes","Paulo Coelho",Fiction,978-0060589288,Available,6.0
+106,"The Alchemist","Paulo Coelho",Fiction,978-0062315007,Available,8.0
+105,"Cat's Eye","Margaret Atwood",Fiction,978-0385491020,Available,7.0
+104,"Alias Grace","Margaret Atwood",Fiction,978-0385490443,Available,8.0
+103,"All the Pretty Horses","Cormac McCarthy",Fiction,978-0679744399,Available,8.0
+102,"No Country for Old Men","Cormac McCarthy",Fiction,978-0307387134,Available,8.0
+101,"Blood Meridian","Cormac McCarthy",Fiction,978-0679728757,Available,9.0
+100,"Colorless Tsukuru Tazaki","Haruki Murakami",Fiction,978-0385352109,Available,7.0
+99,1Q84,"Haruki Murakami",Fiction,978-0307593313,Available,8.0
+98,"The Wind-Up Bird Chronicle","Haruki Murakami",Fiction,978-0679775430,Available,9.0
+97,"Kafka on the Shore","Haruki Murakami",Fiction,978-1400079278,Available,9.0
+96,"Norwegian Wood","Haruki Murakami",Fiction,978-0375704079,Available,8.0
+95,"Chronicle of a Death Foretold","Gabriel García Márquez",Classic,978-1400034710,Available,8.0
+94,"The Autumn of the Patriarch","Gabriel García Márquez",Classic,978-0060882860,Available,7.0
+93,"Love in the Time of Cholera","Gabriel García Márquez",Classic,978-0307389732,Available,9.0
+92,"One Hundred Years of Solitude","Gabriel García Márquez",Classic,978-0060883287,Available,10.0
+91,"The Sun Also Rises","Ernest Hemingway",Classic,978-0684800714,Available,8.0
+90,"For Whom the Bell Tolls","Ernest Hemingway",Classic,978-0684803357,Available,9.0
+89,"A Farewell to Arms","Ernest Hemingway",Classic,978-0684801469,Available,8.0
+88,"The Old Man and the Sea","Ernest Hemingway",Classic,978-0684801223,Available,9.0
+87,Resurrection,"Leo Tolstoy",Classic,978-0140446340,Available,7.0
+86,"The Death of Ivan Ilyich","Leo Tolstoy",Classic,978-0307388865,Available,9.0
+85,"Anna Karenina","Leo Tolstoy",Classic,978-0143035008,Available,10.0
+84,"War and Peace","Leo Tolstoy",Classic,978-0307266903,Available,10.0
+83,"Notes from Underground","Fyodor Dostoevsky",Classic,978-0679734529,Available,8.0
+82,"The Idiot","Fyodor Dostoevsky",Classic,978-0140447927,Available,9.0
+81,"The Brothers Karamazov","Fyodor Dostoevsky",Classic,978-0374528379,Available,10.0
+80,"Crime and Punishment","Fyodor Dostoevsky",Classic,978-0140449136,Available,10.0
+79,"Crooked House","Agatha Christie",Mystery,978-0007120819,Available,7.0
+78,"The Murder at the Vicarage","Agatha Christie",Mystery,978-0007120857,Available,6.0
+77,"Evil Under the Sun","Agatha Christie",Mystery,978-0007119356,Available,7.0
+76,"The ABC Murders","Agatha Christie",Mystery,978-0007119332,Available,8.0
+75,"Death on the Nile","Agatha Christie",Mystery,978-0007119325,Available,8.0
+74,"And Then There Were None","Agatha Christie",Mystery,978-0312330873,Available,10.0
+73,"Murder on the Orient Express","Agatha Christie",Mystery,978-0007119271,Available,9.0
+72,"The Grownup","Gillian Flynn",Thriller,978-1101912119,Available,6.0
+71,"Dark Places","Gillian Flynn",Thriller,978-0307341563,Available,7.0
+70,"Sharp Objects","Gillian Flynn",Thriller,978-0307341556,Available,8.0
+69,"Gone Girl","Gillian Flynn",Thriller,978-0307588364,Available,9.0
+68,Origin,"Dan Brown",Thriller,978-0385514231,Available,6.0
+67,"The Lost Symbol","Dan Brown",Thriller,978-0385504225,Available,5.0
+66,Inferno,"Dan Brown",Thriller,978-0385537858,Available,6.0
+65,"Angels and Demons","Dan Brown",Thriller,978-0671027353,Available,7.0
+64,"The Da Vinci Code","Dan Brown",Thriller,978-0385504201,Available,6.0
+63,"Needful Things","Stephen King",Horror,978-0670839537,Available,7.0
+62,"Doctor Sleep","Stephen King",Horror,978-1476727653,Available,8.0
+61,"The Stand","Stephen King",Horror,978-0385121682,Available,10.0
+60,Carrie,"Stephen King",Horror,978-0385086950,Available,7.0
+59,"Pet Sematary","Stephen King",Horror,978-0385182447,Available,9.0
+58,Misery,"Stephen King",Horror,978-0670813643,Available,8.0
+57,It,"Stephen King",Horror,978-0670813025,Available,9.0
+56,"The Shining","Stephen King",Horror,978-0385121675,Available,10.0
+55,Coraline,"Neil Gaiman",Horror,978-0380977789,Available,8.0
+54,"The Road","Cormac McCarthy",Post-Apocalyptic,978-0307387899,Available,9.0
+53,MaddAddam,"Margaret Atwood",Dystopia,978-0385520386,Available,7.0
+52,"Oryx and Crake","Margaret Atwood",Dystopia,978-0771008153,Available,8.0
+51,"The Handmaid's Tale","Margaret Atwood",Dystopia,978-0771008139,Available,9.0
+50,"Nineteen Eighty-Four","George Orwell",Dystopia,978-0451524935,Available,10.0
+49,"The Naked Sun","Isaac Asimov","Science Fiction",978-0553293395,Available,7.0
+48,"Caves of Steel","Isaac Asimov","Science Fiction",978-0553293128,Available,8.0
+47,VALIS,"Philip K. Dick","Science Fiction",978-0679734468,Available,5.0
+46,"A Scanner Darkly","Philip K. Dick","Science Fiction",978-0679736653,Available,6.0
+45,"The Gods Themselves","Isaac Asimov","Science Fiction",978-0385027014,Available,7.0
+44,"Children of Dune","Frank Herbert","Science Fiction",978-0441104024,Available,8.0
+43,Ubik,"Philip K. Dick","Science Fiction",978-0547572291,Available,7.0
+42,"Do Androids Dream of Electric Sheep?","Philip K. Dick","Science Fiction",978-0345404473,Available,9.0
+41,"The End of Eternity","Isaac Asimov","Science Fiction",978-0765319197,Available,8.0
+40,"Dune Messiah","Frank Herbert","Science Fiction",978-0441172696,Available,9.0
+39,Dune,"Frank Herbert","Science Fiction",978-0441172719,Available,10.0
+38,"I, Robot","Isaac Asimov","Science Fiction",978-0553294385,Available,8.0
+37,Foundation,"Isaac Asimov","Science Fiction",978-0553293357,Available,9.0
+36,"The Man in the High Castle","Philip K. Dick","Science Fiction",978-0618260300,Available,8.0
+35,"The Tombs of Atuan","Ursula K. Le Guin",Fantasy,978-0689206801,Available,6.0
+34,Stardust,"Neil Gaiman",Fantasy,978-0380977284,Available,7.0
+33,"Animal Farm","George Orwell",Fantasy,978-0451526342,Available,9.0
+32,"The Dispossessed","Ursula K. Le Guin",Fantasy,978-0060125639,Available,8.0
+31,"Good Omens","Neil Gaiman & Terry Pratchett",Fantasy,978-0575048003,Available,9.0
+30,"Harry Potter and the Prisoner of Azkaban","J.K. Rowling",Fantasy,978-0439136358,Available,10.0
+29,"Harry Potter and the Chamber of Secrets","J.K. Rowling",Fantasy,978-0439064866,Available,10.0
+28,"The Left Hand of Darkness","Ursula K. Le Guin",Fantasy,978-0441478125,Available,9.0
+27,"A Wizard of Earthsea","Ursula K. Le Guin",Fantasy,978-0395276532,Available,7.0
+26,Neverwhere,"Neil Gaiman",Fantasy,978-0553104752,Borrowed,8.0
+25,"American Gods","Neil Gaiman",Fantasy,978-0380973651,Available,9.0
+24,"Harry Potter and the Philosopher's Stone","J.K. Rowling",Fantasy,978-0747532699,Available,10.0
+23,"The Visit","Friedrich Dürrenmatt",Drama,9780802144263,Available,8.0
+22,"The Physicists","Friedrich Dürrenmatt",Drama,9780802144652,Available,9.0
+21,"Homo Faber","Max Frisch",Fiction,9780156421172,Available,5.0
+20,"Berlin Alexanderplatz","Alfred Döblin",Classic,9780826407849,Available,6.0
+19,Demian,"Hermann Hesse",Fiction,9780142437179,Available,8.0
+18,"The Reader","Bernhard Schlink",Fiction,9780375707971,Available,7.0
+17,"All Quiet on the Western Front","Erich Maria Remarque",War,9780449213940,Available,9.0
+16,"Perfume: The Story of a Murderer","Patrick Süskind",Thriller,9780375725845,Borrowed,8.0
+15,"The Tin Drum","Günter Grass",Fiction,9780156032063,Available,6.0
+14,Siddhartha,"Hermann Hesse",Philosophical,9780553208849,Available,10.0
+13,Steppenwolf,"Hermann Hesse",Fiction,9780312278674,Available,9.0
+12,"The Trial","Franz Kafka",Fiction,9780805209991,Available,7.0
+11,"The Metamorphosis","Franz Kafka",Fiction,9780553213690,Available,8.0
+10,"The Sorrows of Young Werther","Johann Wolfgang von Goethe",Classic,9780140445039,Available,5.0
+9,Faust,"Johann Wolfgang von Goethe",Classic,9780140449013,Available,6.0
+8,"The Girl with the Dragon Tattoo","Stieg Larsson",Thriller,9780307454546,Available,7.0
+7,"Atomic Habits","James Clear",Self-help,9780735211291,Available,9.0
+6,"The Da Vinci Code","Dan Brown",Thriller,9780307474271,Available,4.0
+5,"Harry Potter and the Sorcerer's Stone","J.K. Rowling",Fantasy,9780590353421,Available,10.0
+4,"Steve Jobs","Walter Isaacson",Biography,9781451648539,Available,9.0
+3,"The Hobbit","J.R.R. Tolkien",Fantasy,9780547928227,Available,8.0
+2,"Murder on the Orient Express","Agatha Christie",Mystery,9780062693661,Available,7.0
+1,Foundation,"Isaac Asimov",Sci-Fi,9780553293351,Available,5.0

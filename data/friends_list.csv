@@ -1,0 +1,61 @@
+id,name,phone,email,address,city,notes,max_loans
+60,"Denis Meier","+49 153 0123 5030",denis.meier@outlook.com,"Königstraße 22",Nürnberg,"Data and tech books",3
+59,"Cara Hartmann","+49 152 9012 5029",cara.hartmann@gmail.com,"Georgstraße 3",Hannover,"Dystopian fiction",3
+58,"Boris Lehmann","+49 151 8901 5028",boris.lehmann@gmx.de,"Obernstraße 14",Bremen,"Poetry and prose",3
+57,"Anna Schwarz","+49 159 7890 5027",anna.schwarz@gmail.com,"Wilsdruffer Str. 10",Dresden,"Graphic novels fan",3
+56,"Zach Wagner","+49 158 6789 0125",zach.wagner@web.de,"Augustusplatz 1",Leipzig,"Horror and dark fiction",3
+55,"Yara Zimmermann","+49 157 5678 5025",yara.zimmermann@gmail.com,"Königsallee 55",Düsseldorf,"Travel literature",3
+54,"Xena Fuchs","+49 156 4567 5024",xena.fuchs@outlook.com,"Schloßstraße 12",Stuttgart,"Fantasy and magic",3
+53,"Walt Krause","+49 155 3456 5023",walt.krause@gmx.de,"Eschersheimer Landstr. 20",Frankfurt,"War novels and memoirs",3
+52,"Vera Lange","+49 154 2345 5022",vera.lange@gmail.com,"Schildergasse 44",Cologne,"Young adult fiction",3
+51,"Uwe Klein","+49 153 1234 5021",uwe.klein@t-online.de,"Viktualienmarkt 3",Munich,"Economics and business",3
+50,"Tina Richter","+49 152 0123 5020",tina.richter@web.de,"Mönckebergstraße 7",Hamburg,"Self-help and psychology",3
+49,"Sam Wolf","+49 151 9012 5019",sam.wolf@gmail.com,"Friedrichstraße 19",Berlin,"Romance and drama",3
+48,"Rosa Huber","+49 159 8901 5018",rosa.huber@gmx.de,"Ludgeristraße 102",Münster,"Recommends books actively",3
+47,"Quinn Adams","+49 158 7890 5017",quinn.adams@outlook.com,"Sternstraße 8",Bonn,"Reads before bed",3
+46,"Paul Schulz","+49 157 6789 5016",paul.schulz@gmail.com,"Bahnhofstraße 12",Bielefeld,"Crime fiction reader",3
+45,"Olga Ivanova","+49 156 5678 5015",olga.ivanova@mail.ru,"Friedrich-Ebert-Str. 1",Wuppertal,"Classic literature only",3
+44,"Nils Koch","+49 155 4567 5014",nils.koch@gmail.com,"Kortumstraße 55",Bochum,"Keeps books in good shape",3
+43,"Maya Hoffmann","+49 154 3456 5013",maya.hoffmann@web.de,"Königstraße 2",Duisburg,"Loves mystery novels",3
+42,"Leo Braun","+49 153 2345 5012",leo.braun@gmx.de,"Karolinenstraße 10",Nürnberg,"Biography fan",3
+41,"Kira Nowak","+49 152 1234 5011",kira.nowak@gmail.com,"Lister Meile 7",Hannover,"Reads 2-3 books a month",3
+40,"Jake Wilson","+49 151 0123 5010",jake.wilson@outlook.com,"Sögestraße 21",Bremen,"Thriller lover",3
+39,"Ines Fischer","+49 159 9012 5009",ines.fischer@gmail.com,"Prager Straße 44",Dresden,"Philosophy reader",3
+38,"Hans Becker","+49 158 8901 5008",hans.becker@t-online.de,"Grimmaische Str. 2",Leipzig,"History buff",3
+37,"Grace Kim","+49 157 7890 5007",grace.kim@gmail.com,"Schadowstraße 15",Düsseldorf,"Reads during commute",3
+36,"Frank Weber","+49 156 6789 5006",frank.weber@gmx.de,"Königstraße 5",Stuttgart,"Sci-fi enthusiast",3
+35,"Elena Petrov","+49 155 5678 5005",elena.petrov@mail.ru,"Zeil 102",Frankfurt,"Russian literature fan",3
+34,"David Müller","+49 154 4567 5004",david.mueller@web.de,"Hohe Straße 8",Cologne,"Prefers audiobooks",3
+33,"Clara Schmidt","+49 153 3456 5003",clara.schmidt@gmail.com,"Sendlinger Str. 12",Munich,"Interested in classics",3
+32,"Ben Carter","+49 152 2345 5002",ben.carter@yahoo.com,"HafenCity 4",Hamburg,"Returns books on time",3
+31,"Alice Johnson","+49 151 1234 5001",alice.johnson@gmail.com,"Torstraße 1",Berlin,"Loves fantasy books",3
+30,"Daniel Weffer",015012345600,daniel.weffer@email.com,"Kaiserstrasse 30",Bonn,"Often borrows thrillers",3
+29,"Laura Hoffs",015099941009,laura.hoffs@gmail.com,"Marktplatz 5",Dresden,"Reads scientific books",3
+28,"Maximilian Becker",015086928888,max.becker@email.com,"Goethestrasse 27",Leipzig,"Reads historical books",3
+27,"Sophie Sagner",015077789577,sophie.sagner@email.com,"Ringstrasse 7",Düsseldorf,"Prefers biographies",3
+26,"Lukas Schneebart",015066621366,lukas.schneebart@gmail.com,"Bahnstrasse 27",Stuttgart,"Enjoys sci-fi novels",3
+25,"Emma Brown",015055665545,emma.brown@gmail.com,"Mainzer Landstrasse 15",Frankfurt,"Prefers biographies",3
+24,"John Greys",051044446244,john.greys@email.com,"Domstrasse 3",Cologne,"Loves thrillers",3
+23,"Mario Freid",015137433333,mario.freid@email.com,"Elbstrasse 8",Hamburg,"Returns books late sometimes",3
+22,"Oleh Igikai",071022278922,oleh.igikai@gmail.com,"Hauptgasse 65",Munich,"Returns books late sometimes",3
+21,"Anke Kreis",015011114511,anke.kreis@email.com,"Alexanderstr 45",Berlin,"Loves fantasy books",3
+20,"Tim König",015445566778,tim.koenig@email.com,"Luisenstraße 9, 48143",Münster,"Spends most of his time in libraries.",3
+19,"Nina Schmitt",017334455667,nina.schmitt@email.com,"Breiteweg 18, 53111",Bonn,"University professor, very academic.",3
+18,"Felix Lange",016223344556,felix.lange@email.com,"Hochstraße 77, 33602",Bielefeld,"Graphic novel collector.",3
+17,"Lea Hartmann",015112233445,lea.hartmann@email.com,"Bachstraße 1, 42103",Wuppertal,"Passion for poetry and lyrics.",3
+16,"Jonas Krüger",017001122334,jonas.krueger@email.com,"Feldstraße 22, 44787",Bochum,"Borrows a lot of cookbooks.",3
+15,"Clara Braun",016990011223,clara.braun@email.com,"Gartenstraße 4, 47051",Duisburg,"Into self-improvement books.",3
+14,"Ben Zimmermann",015889900112,ben.zimmermann@email.com,"Talweg 33, 90403",Nürnberg,"Former colleague from the office.",3
+13,"Lina Schwarz",017778899001,lina.schwarz@email.com,"Bergstraße 9, 30159",Hannover,"True romantic novel lover.",3
+12,"Elias Neumann",016667788990,elias.neumann@email.com,"Rosenweg 12, 01067",Dresden,"Art history student.",3
+11,"Hannah Wolf",015556677889,hannah.wolf@email.com,"Waldweg 55, 28195",Bremen,"Architect friend with an eye for design.",3
+10,"Noah Klein",017445566778,noah.klein@email.com,"Parkstraße 10, 04109",Leipzig,"Always follows the bestseller list.",3
+9,"Mia Schulz",016334455667,mia.schulz@email.com,"Kirchplatz 15, 45127",Essen,"Interested in modern philosophy.",3
+8,"Leon Hoffmann",015223344556,leon.hoffmann@email.com,"Marktplatz 2, 44135",Dortmund,"Tends to return books late.",3
+7,"Emma Becker",017398765432,emma.becker@email.com,"Lindenallee 7, 40213",Düsseldorf,"Reads extremely fast.",3
+6,"Paul Schneider",016298765432,paul.schneider@email.com,"Ringweg 44, 70173",Stuttgart,"History buff, especially WWII.",3
+5,"Laura Fischer",015198765432,laura.fischer@email.com,"Bahnhofstraße 3, 60311","Frankfurt am Main","Childhood friend, very reliable.",3
+4,"Maximilian Weber",017212345678,max.weber@email.com,"Schillerstraße 21, 50667",Köln,"Loves classic literature.",3
+3,"Sophie Wagner",016012345678,sophie.wagner@email.com,"Goethestraße 88, 80331",München,"Very careful with book covers.",3
+2,"Lukas Schmidt",015176543210,lukas.schmidt@email.com,"Kantstraße 5, 20354",Hamburg,"Big fan of Sci-Fi movies and books.",3
+1,"Anna Müller",015112345678,anna.mueller@email.com,"Hauptstraße 12, 10117",Berlin,"Avid thriller reader.",3

@@ -1,0 +1,4 @@
+id,book_id,friend_id,loan_date,return_date
+3,114,55,2026-04-01,NULL
+2,26,14,2026-04-01,NULL
+1,16,54,2026-04-01,NULL
